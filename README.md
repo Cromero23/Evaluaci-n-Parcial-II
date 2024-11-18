@@ -1,2 +1,2 @@
-# Evaluaci-n-Parcial-II
+# Evaluacion-Parcial-II
 Archivo e imagenes de la Evaluación
