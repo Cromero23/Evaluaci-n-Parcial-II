@@ -1,0 +1,6 @@
+com\example\demo\controllers\ProductoController.class
+com\example\demo\ExamenApplication.class
+com\example\demo\dto\Producto.class
+com\example\demo\dao\ProductoRepository.class
+com\example\demo\services\ProductoServiceImpl.class
+com\example\demo\services\ProductoService.class
